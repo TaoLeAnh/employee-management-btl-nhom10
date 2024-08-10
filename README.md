@@ -13,10 +13,9 @@
 - Quản lý lương
 - Báo cáo thống kê
 #### Thành viên trong nhóm
-- Đỗ Trọng Hoàng ( 2022604369 ) **( Nhóm trưởng )** : chịu trách nhiệm tạo api, xử lý js cho toàn bộ trang web , deploy sản phẩm
-- Lê Anh Tạo ( 2022605301 ) : Thiết kế trang shop page (xử lý html css ,reponsive )
-- Võ Thị Thùy Linh ( 2022603406 ) : Thiết kế trang checkout page (xử lý html css ,reponsive )
-- Hoàng Thu Hằng ( 2022606616 ) : Thiết kế trang home page (xử lý html css ,reponsive )
-- Bùi Nhật Viện ( 2022605990 ) : Thiết kế trang detail page (xử lý html css ,reponsive )
+- Nguyễn Văn Minh Thủy ( ********** ) **( Nhóm trưởng )** : Quản lý lương, báo cáo thống kê
+- Lê Anh Tạo ( 2022605301 ) : Quản lý chức vụ, thiết kế UI/UX
+- Nguyễn Viết Nam ( ********** ) : Quản lý nhân viên, quản lý phòng ban
+- Phạm Văn Quang ( ********** ) : Đăng ký, đăng nhập, quản lý tài khoản
 
  
