@@ -13,7 +13,7 @@
 - Quản lý lương
 - Báo cáo thống kê
 #### Thành viên trong nhóm
-- Nguyễn Văn Minh Thủy ( ********** ) **( Nhóm trưởng )** : Quản lý lương, báo cáo thống kê
+- Nguyễn Văn Minh Thủy ( 2022605321 ) **( Nhóm trưởng )** : Quản lý lương, báo cáo thống kê
 - Lê Anh Tạo ( 2022605301 ) : Quản lý chức vụ, thiết kế UI/UX
 - Nguyễn Viết Nam ( ********** ) : Quản lý nhân viên, quản lý phòng ban
 - Phạm Văn Quang ( ********** ) : Đăng ký, đăng nhập, quản lý tài khoản
