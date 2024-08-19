@@ -18,7 +18,7 @@
 #### Thành viên trong nhóm
 - Nguyễn Văn Minh Thủy ( 2022605321 ) **( Nhóm trưởng )** : Quản lý lương, báo cáo thống kê
 - Lê Anh Tạo ( 2022605301 ) : Quản lý chức vụ, thiết kế UI/UX
-- Nguyễn Viết Nam ( ********** ) : Quản lý nhân viên, quản lý phòng ban
+- Nguyễn Viết Nam ( 2022606114 ) : Quản lý nhân viên, quản lý phòng ban
 - Phạm Văn Quang ( 2023605532 ) : Đăng ký, đăng nhập, quản lý tài khoản
 
  
